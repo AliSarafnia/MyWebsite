@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ali Sarafnia - Audio Developer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Ali Sarafnia</h1>
+        <p>Audio Developer | Signal Processing | Machine Learning</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#experience">Work Experience</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#publications">Publications</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <section id="home">
+        <h2>Welcome</h2>
+        <p>Hello! I am Ali Sarafnia, a highly motivated audio developer specializing in signal processing, audio, speech, wireless DSP, and machine learning. I am passionate about contributing to innovative projects in audio processing and machine learning.</p>
+    </section>
+    
+    <section id="experience">
+        <h2>Work Experience</h2>
+        <h3>Audio Developer at EERS Global Technologies</h3>
+        <p>April 2022 – Current</p>
+        <ul>
+            <li>Designed and evaluated ML and signal processing algorithms.</li>
+            <li>Characterized audio signals using FFT, spectrograms, etc.</li>
+            <li>Implemented feature extraction algorithms in MATLAB/Python/JUCE.</li>
+        </ul>
+        
+        <h3>GSM/LTE CS Core Network Back Office Engineer at Huawei Technologies Co.</h3>
+        <p>June 2013 – June 2014</p>
+        <ul>
+            <li>Monitored system clear codes and KPIs.</li>
+            <li>Provided Second-Line Maintenance support.</li>
+        </ul>
+        
+        <h3>Radio Network Planning Engineer at Taliya Mobile Network Operator</h3>
+        <p>October 2012 – June 2013</p>
+        <ul>
+            <li>Conducted Technical Site Survey, frequency planning, and traffic allocation.</li>
+        </ul>
+        
+        <h3>Statistics Analysis Researcher at Non-communicable Diseases Research Centre (NCDRC)</h3>
+        <p>November 2011 – June 2014</p>
+        <ul>
+            <li>Developed GPR and Spatio-temporal models in "WinBUGS" and "R".</li>
+        </ul>
+        
+        <h3>Test Engineer at Airbroad Chip Design Co.</h3>
+        <p>September 2009 – November 2011</p>
+        <ul>
+            <li>Tested GaAs power amplifiers for GSM quad-band mobile handsets.</li>
+        </ul>
+    </section>
+    
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li>Study of State-Space Model for Speech Enhancement</li>
+            <li>Research on Kohonen Self-Organized Map Neural Network</li>
+            <li>Addressing overfitting problem for DNNs</li>
+            <li>Heartrate and breathing rate estimation through the ear canal</li>
+            <li>Noise exposure in-ear dosimetry estimation algorithms</li>
+        </ul>
+    </section>
+    
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Reaper, Audacity, Smaart, Git, Visual Studio, Orcad, LabView, R, STATA, Python, MATLAB, C++, Simulink, Assembly Language, MS Office</li>
+        </ul>
+    </section>
+    
+    <section id="education">
+        <h2>Education</h2>
+        <ul>
+            <li>Ph.D. in Signal Processing, Concordia University, Montreal, Canada (2014-2022)</li>
+            <li>M.Sc. in Digital Electronics Engineering, Sharif University of Technology, Kish Island, Tehran, Iran (2011-2013)</li>
+            <li>B.Sc. in Electronics Engineering, Karaj Islamic Azad University, Alborz, Iran (2004-2010)</li>
+            <li>Diploma in Mathematics and Physics, Shahed High School of Karaj, Alborz, Iran (2001-2004)</li>
+        </ul>
+    </section>
+    
+    <section id="publications">
+        <h2>Publications</h2>
+        <ul>
+            <li>Various publications in IEEE and other journals on topics like noise reduction, speech enhancement, and microphone arrays.</li>
+        </ul>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:sarafnia@gmail.com">sarafnia@gmail.com</a></p>
+        <p>Phone: 514-804-7577</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/ali-sarafnia">Ali Sarafnia's LinkedIn Profile</a></p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 Ali Sarafnia. All rights reserved.</p>
+    </footer>
+</body>
+</html>
