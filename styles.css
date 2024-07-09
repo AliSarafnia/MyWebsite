@@ -55,9 +55,15 @@ nav ul li a:hover {
     text-decoration: underline;
 }
 
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
 section {
     padding: 2rem;
-    margin: 2rem 1rem;
+    margin: 2rem 0;
     background-color: #ffffff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
@@ -92,18 +98,13 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+    box-sizing: border-box;
 }
 
 footer p {
     margin: 0;
     font-size: 0.9rem;
     font-weight: 300;
-}
-
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 2rem;
 }
 
 h3 {
